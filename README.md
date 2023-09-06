@@ -1,3 +1,2 @@
 # CombatBot
-
-You can upload this game to a calculator and play it at school. Updates including graphics are coming up.
+This is CombatBot for Windows. Search for CombatBots and open the app. Updates including graphics are coming up.
